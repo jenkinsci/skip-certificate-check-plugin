@@ -17,6 +17,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
+ * Installs turst-all {@link TrustManager} to bypass HTTPS check
+ *
  * @author Kohsuke Kawaguchi
  */
 @Extension

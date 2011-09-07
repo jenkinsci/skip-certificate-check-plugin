@@ -11,6 +11,8 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/Skip+Certificate+Check+plugin</url>
+
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
   <repositories>
     <repository>

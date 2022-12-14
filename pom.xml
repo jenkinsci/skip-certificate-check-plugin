@@ -9,13 +9,13 @@
 
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>skip-certificate-check</artifactId>
-  <version>1.1</version>
+  <version>${revision}${changelist}</version>
   <packaging>hpi</packaging>
 
   <url>https://github.com/jenkinsci/skip-certificate-check-plugin</url>
 
   <properties>
-    <revision>1.1</revision>
+    <revision>1.2</revision>
     <changelist>-SNAPSHOT</changelist>
     <gitHubRepo>jenkinsci/skip-certificate-check-plugin</gitHubRepo>
     <jenkins.version>2.346.3</jenkins.version>
@@ -38,7 +38,7 @@
   <scm>
     <connection>scm:git:https://github.com/${gitHubRepo}.git</connection>
     <developerConnection>scm:git:git@github.com:${gitHubRepo}.git</developerConnection>
-    <tag>skip-certificate-check-1.1</tag>
+    <tag>${scmTag}</tag>
     <url>https://github.com/${gitHubRepo}</url>
   </scm>
 </project>

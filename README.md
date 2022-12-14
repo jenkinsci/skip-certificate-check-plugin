@@ -11,10 +11,10 @@ It activates itself when Jenkins starts.
 
 ## Changelog
 
-### Version 1.1 (upcoming)
+### Version 1.1 (Dec 14, 2022)
 
--   Fixed a ticket just for the sake of demo
-    ([JENKINS-10932](https://issues.jenkins-ci.org/browse/JENKINS-10932))
+-   Require Jenkins 2.346.3 or newer.
+    Resolves implied dependency on WMI Windows Agents plugin
 
 ### Version 1.0 (Sep 7th 2011)
 

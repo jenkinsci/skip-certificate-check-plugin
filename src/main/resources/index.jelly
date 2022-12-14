@@ -1,4 +1,6 @@
+<?jelly escape-by-default='true'?>
 <div>
-  This is a plugin that makes JVM bypass all the HTTPS certificate checks.
-  Convenient if you deal with self-signed certificates and so on. Use with caution.
+  This is a plugin that makes JVM bypass all HTTPS certificate checks.
+  Convenient if you deal with self-signed certificates and so on.
+  Use with caution.
 </div>

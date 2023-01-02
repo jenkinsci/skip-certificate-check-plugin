@@ -70,7 +70,7 @@ $ mvn clean -DforkCount=1C verify
 
 ## Report an Issue
 
-Use the ["Report an issue" page](https://www.jenkins.io/participate/report-issue/redirect/#16001) to submit bug reports.
+Use the ["Report an issue" page](https://www.jenkins.io/participate/report-issue/redirect/#15923) to submit bug reports.
 
 ## Security Issues
 
